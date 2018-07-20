@@ -1,0 +1,1 @@
+python E:\Workspace\ZHJWorkspace\Client\Tools\FileSync\filesync.py "E:\Workspace\ZHJWorkspace\Client\DotGameLua\LuaScripts" "D:\t" ".lua|.txt"
